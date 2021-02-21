@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ye's server (Edit 1)
+title:
 email: ye.lu.273@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
         On my way to get A's this semester. Yeet. I hope classes are not too hard.
-baseurl: "/description" # the subpath of your site, e.g. /blog
+baseurl: "/descript" # the subpath of your site, e.g. /blog
 url: "http://yeluCSUN.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: I_Don't_Have_Twitter
+twitter_username: YaBoiZen
 github_username:  yelu2021
 
 # Build settings
